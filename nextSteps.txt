@@ -1,0 +1,5 @@
+- Arrumar back para trazer os preços e localização (armazenar novos dados no mongodb);
+- Dispor os dados acima no front e arrumar o front;
+- Trazer a rota de detalhes no front;
+- Arrumar a rota do back para o mercadolivre;
+- Fazer a troca no front quando for details e quando for home
